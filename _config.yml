@@ -1,2 +1,3 @@
-	name: Conroy Iwhiwhu, Front-End (and Python) Programmer
-	markdown: kramdown
+name: Conroy Iwhiwhu, Front-End (and Python) Programmer
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
