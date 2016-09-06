@@ -1,6 +1,11 @@
+@viewport {
+  width: device-width;
+}
 body {
     margin: 60px auto;
     width: 70%;
+    background:#ddd;
+    color:#222;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
