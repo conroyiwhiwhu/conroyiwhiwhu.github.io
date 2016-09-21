@@ -1,3 +1,6 @@
 name: Conroy Iwhiwhu, Front-End (and Python) Programmer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+gems:
+  - jekyll-sitemap
