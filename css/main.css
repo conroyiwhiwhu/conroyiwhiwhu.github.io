@@ -2,16 +2,9 @@
   width: device-width;
 }
 body {
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    background: black;
-    text-align: center;
-    color: white;
     margin: 60px auto;
     width: 70%;
     /*background:#ccc;*/
-    background: url("https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-3pc6w/images/splash.jpg");
     color:#222;
 }
 nav ul, footer ul {
@@ -36,13 +29,11 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     /*background-color:transparent !important;*/
-    text-align: center;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    text-align: center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
