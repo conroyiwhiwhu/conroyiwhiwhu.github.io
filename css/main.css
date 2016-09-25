@@ -35,15 +35,6 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-input {
-    border: 0;
-    padding: 12px;
-    font-size: 18px;
-    }
-    input[type="submit"] {
-    background: limegreen;
-    color: black;
-    }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
