@@ -21,6 +21,10 @@ a {
     text-decoration: none;
     color: #999;
 }
+img {
+    height: 250px;
+    width: 250px;
+}
 a:hover {
     text-decoration: underline !important;
 }
@@ -46,4 +50,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
